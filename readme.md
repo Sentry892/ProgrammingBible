@@ -1,0 +1,3 @@
+# HEY
+
+I'm Kirill, author of this book. I am only **13 years old**, I'm writing this book to learn git, markdown syntax, better my english and blog writing. And share what I learned with you. I did use ai only for overview.md and grammar checking. If you want to support me, you can fund my coding journey: [Ko-fi](https://ko-fi.com/kirilldevv). If you are a yt or a social media creator, please talk about this book, it will help me a lot. Hope you will enjoy this book!
