@@ -1,5 +1,5 @@
 # Programming Bible  
-**By Kirill (@yourusername)**  
+**By Kirill (@Sentry892)**  
 
 > "Before you write code, learn to think like the machine, and even more, like the creator of it."  
 
@@ -21,9 +21,8 @@ Whether you’re a curious beginner or a future software architect, this book wi
 
 1. The Logic of Thought — How programmers break problems into patterns.  
 2. Debugging as a Philosophy — Why failure is your best mentor.  
-3. The Curiosity Habit — Asking “why” until things make sense.  
-4. How Computers Think — Binary, abstraction, and logic flow.  
-5. The Myth of Talent — Why anyone can learn to code if they stay curious.  
+3. The Curiosity Habit — Asking “why” until things make sense.    
+4. The Myth of Talent — Why anyone can learn to code if they stay curious.  
 
 ---
 
@@ -39,7 +38,18 @@ Whether you’re a curious beginner or a future software architect, this book wi
 
 ---
 
-## Part III — The Tools of Creation  
+## Part III — Under the Hood  
+*How software actually works inside.*  
+
+1. Programming Languages & Compilers — Turning logic into electricity.  
+2. Abstract Syntax Trees (ASTs) — The secret skeleton of all code.  
+3. Interpreters & Virtual Machines — Making languages run anywhere.  
+4. Operating Systems — The bridge between hardware and thought.  
+5. Clouds, Containers & Orchestration — Scaling beyond one machine.  
+6. Design Patterns & Software Architecture — Building cathedrals from code.  
+---
+
+## Part IV — The Tools of Creation  
 *Mastering the instruments of development.*  
 
 1. Text Editors, IDEs, and the Flow State — The coder’s workspace.  
@@ -49,19 +59,6 @@ Whether you’re a curious beginner or a future software architect, this book wi
 5. APIs and Networking — Conversations between systems.  
 6. Package Managers & CI/CD — Automating the grind.  
 
----
-
-## Part IV — Under the Hood  
-*How software actually works inside.*  
-
-1. Programming Languages & Compilers — Turning logic into electricity.  
-2. Abstract Syntax Trees (ASTs) — The secret skeleton of all code.  
-3. Interpreters & Virtual Machines — Making languages run anywhere.  
-4. Operating Systems — The bridge between hardware and thought.  
-5. Clouds, Containers & Orchestration — Scaling beyond one machine.  
-6. Design Patterns & Software Architecture — Building cathedrals from code.  
-
----
 
 ## Part V — The Future and the Philosophy  
 *Where we go from here.*  
