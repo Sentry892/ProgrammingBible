@@ -17,6 +17,11 @@ Package Manager:
 **pip**
 ___
 
+## Shell
+> Everyone was a begineer
+
+Shell isn't actully a programming launguage, but I included it because this might be one of the most important things you will use. Shell or terminal is a set of commands that can be used in every computer by  default for example powershell on windows, most of the commands consist of manipulation of files. The tool shines when you use a cli(command line utility) for example to start a react project or use a package manager, everything can be done in shell, for example claude code an ai coding assistant(more like a thief) that works only in terminal. Even the git technology I write this book with is terminal based. Shell doesn't need frameworks or package managers because it just controls it
+___
 ## HTML
 > Society doesn't accept the different one
 
@@ -56,3 +61,7 @@ console.log("Hello World") // actually prints it to the browser console(for clar
 Important Frameworks:
 React: Made by facebook use componets(reuseble blocks of html and css). Industry standard
 Astro: My favourite framework has components, templating system and fast loading(because it sends js to the server site)
+Vue: Another component based framework but vue have a lot of useful features by default for example v-if
+Angular: Actually typescript based(a js superset). Developed by google has a strong CLI(command line utilites). Uses components
+Solid: Similar to react but fast(because compiles the javascript not like react or vue)
+Svelte: A small and fast framework has components and reactivity(templating) 
