@@ -11,9 +11,13 @@ Python is a compiled launguage, python is probably the simplest programming laun
 print("Hello world") #This is a print function(command) prints Hello world to output. You can write anything between quotes ex: print("Hi")
 ```
 Important Frameworks(A big package):
+
 **Django**: A package that can produce a website
+
 **Numpy**: A package used by data sciensist
+
 Package Manager:
+
 **pip**
 ___
 
@@ -37,15 +41,18 @@ HTML isn't consideared a programming launguage but for it is. HTML is a markup l
     </body>
 </html>
 ```
-They isn't a package managere and a framework for html
+There isn't a package manager and a framework for html
 ___
 ## CSS
 > Art is an illusion of opinion
 
 A website needs to look good it helps to gain trust from user, that's where CSS comes in. CSS is a styling programming launguage for HTML. You can't write CSS without HTML. Let's rapresent it by imagining working in powerpoint, you can add headings and paragrphs this is html but when moving objects and changing colors this is CSS. I consider css a difficult launguage because of design standards. CSS can be written inline or in a stylesheet file.
 Important Frameworks:
+
 **Sass**: Basicly css but with new features
+
 **Tailwind**: This is a framework that allows to write styles in html classes, highly customizable and has a large community
+
 **Bootstrap**: This is similar to Tailwind but less customizable and fast to write
 
 
@@ -65,3 +72,21 @@ Vue: Another component based framework but vue have a lot of useful features by 
 Angular: Actually typescript based(a js superset). Developed by google has a strong CLI(command line utilites). Uses components
 Solid: Similar to react but fast(because compiles the javascript not like react or vue)
 Svelte: A small and fast framework has components and reactivity(templating) 
+Next.js: It's actually a framework for react adds insane amount of useful features every startup choice
+
+That was a short explanation of the most popular frameworks, they are still a lot(around 10k).
+
+Package managers:
+Yeap js community can't even agree what word use for installing a package
+
+npm: The industry standard 
+
+bun: Fast but not popular
+
+deno: Has a lot of unrialized potential
+
+There also npx, yarn and etc... but they are just recycling of the same features(No offense)
+___
+
+## C
+> High risk high reward
