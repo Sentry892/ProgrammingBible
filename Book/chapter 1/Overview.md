@@ -45,8 +45,7 @@ Whether you’re a curious beginner or a future software architect, this book wi
 2. Abstract Syntax Trees (ASTs) — The secret skeleton of all code.  
 3. Interpreters & Virtual Machines — Making languages run anywhere.  
 4. Operating Systems — The bridge between hardware and thought.  
-5. Clouds, Containers & Orchestration — Scaling beyond one machine.  
-6. Design Patterns & Software Architecture — Building cathedrals from code.  
+5. Clouds, Containers & Orchestration — Scaling beyond one machine.    
 ---
 
 ## Part IV — The Tools of Creation  

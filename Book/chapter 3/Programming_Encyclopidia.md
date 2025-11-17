@@ -61,7 +61,7 @@ ___
 ## JavaScript
 > More famous you are more haters you have
 
-Javascript is probably the most hated launguage and it has so many versions even a superset(Something like minecraft mods) called typescript, but JS(Short fo JavaScript) is the most famous launguage that have a lot of frameworks(Actually in js something like supersets but still in support basic js syntax). A famous person said "Anything that can't be build in javascript will be build in javascript" so you would assume js can make everything but mainly websites. JS is even better with HTML and CSS, an anology based on human anatomy is that HTML is the bone and muscles, JS is organs and brain, CSS is skin and hair. So there are the big three. Hello world in JS:
+Javascript is probably the most hated launguage and it has so many versions even a superset(Something like minecraft mods) called typescript, but JS(Short for JavaScript) is the most famous launguage that have a lot of frameworks(Actually in js something like supersets but still in support basic js syntax). A famous person said "Anything that can't be build in javascript will be build in javascript" so you would assume js can make everything but mainly websites. JS is even better with HTML and CSS, an anology based on human anatomy is that HTML is the bone and muscles, JS is organs and brain, CSS is skin and hair. So there are the big three. Hello world in JS:
 ```javascript
 console.log("Hello World") // actually prints it to the browser console(for clarification watch a yt tutorial)
 ```
@@ -90,3 +90,5 @@ ___
 
 ## C
 > High risk high reward
+
+C is one of the most complex usable programming launguage. 
