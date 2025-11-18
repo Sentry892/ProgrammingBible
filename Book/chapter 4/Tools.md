@@ -1,7 +1,7 @@
 # Tools of a programmer
 ____
 
-You know about programming launguges but how can we actually write code deploy it and test it. In this chapter we will cover code editors, deployment tools, system control tools, other utilites and at the you will find my workflow that is very efficient and customizeaable.
+You know about programming launguges but how can we actually write code deploy it and test it. In this chapter we will cover code editors, deployment tools, version control tools, other utilites and at the you will find my workflow that is very efficient and customizeaable.
 
 ___
 
@@ -12,3 +12,13 @@ You can write code everywhere even on paper, to execute a file of code you just 
 
 ___
 
+## Version Control
+> Save your work
+
+Version control is when you save your work/files in cloud. The most popular is git that works like a tree, for example branches and etc. Git helps developer to control and save previous updates of code(Think of it like CTRL+Z but advenced). You can find open-source(The code is posted online and it's free) git projects on github. There a lot of utilites for git since it is only a command line tool, but most of them are enabled by default in a code editor/IDE.
+### Crash course on git
+To start a git tree you should get into your  projects folder and type **git init** after initialazing your project next make changes in your project and write **git add .** this command adds all the changes to the scene that changes can be deleted from the scene then write **git commit -m "-m means message and you need to write your message in this strings"** and then write **git push** it could ask you for your github credentials.
+___
+
+## Terminals
+> Every programming legend begins with a terminal command so the terminal is different on every device and 
