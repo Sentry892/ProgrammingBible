@@ -21,4 +21,11 @@ To start a git tree you should get into your  projects folder and type **git ini
 ___
 
 ## Terminals
-> Every programming legend begins with a terminal command so the terminal is different on every device and 
+> Every programming legend begins with a terminal command
+
+Every OS has it's own terminal but you should add a linux terminal to your OS, before that what is a terminal? A terminal is an admin panel for your computer it can be used to control your OS entirely, most dev tools are build for terminal since it doesn't require any UI/UX. An example of a dev tool on terminal is git or the astro setup wizard.
+
+## Ai tools
+> The brightest stars are born in darkerst nights
+
+Usually I'm against vibe-coding(I will explain this in a second) but I feel that begineers should have some expirience working with ai tools. Vibe coding is a practice of developers using Ai tools to write their code instead of manually do it. 
