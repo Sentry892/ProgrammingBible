@@ -24,8 +24,14 @@ ___
 > Every programming legend begins with a terminal command
 
 Every OS has it's own terminal but you should add a linux terminal to your OS, before that what is a terminal? A terminal is an admin panel for your computer it can be used to control your OS entirely, most dev tools are build for terminal since it doesn't require any UI/UX. An example of a dev tool on terminal is git or the astro setup wizard.
-
+___
 ## Ai tools
 > The brightest stars are born in darkerst nights
 
-Usually I'm against vibe-coding(I will explain this in a second) but I feel that begineers should have some expirience working with ai tools. Vibe coding is a practice of developers using Ai tools to write their code instead of manually do it. 
+Usually I'm against vibe-coding(I will explain this in a second) but I feel that begineers should have some expirience working with ai tools. Vibe coding is a practice of developers using Ai tools to write their code instead of manually do it. First I'm gonna adress a famous question: "Will AI take programming jobs?", simple answear not, difficult one is that AI is literally made and trained by humans but even if you aren't a machine learning expert you need to understand that nobody in there sane mind would give important databases or code files to AI since one hallunation and your database is dead, this actually happend before and proves that AI tools for the next 20-30 years will not replace human programmers, talking about long term; AI companies will go broke fast, let me explain: To train a model similar to chatgpt 4 will require the budget of millions maybe billions, it will be insanly difficult to cover up those costs and make returns for investors(THey originaly give money to AI companies). But as for right now AI is an extremly powerful tool that can save you time, so here are two main types of AI coding tools: 
+
+1. AI code editors, a code editor with an AI chat built in(normally a vs code clone), examples: Antigravity from google(I just discover they have like 3 editors, stop milking dawg), cursor(A bit weak lately but my favourite), windsurf(Never tried it) and etc...
+
+2. CLI tools, write claude in terminal a chat pops up made for developers that have their editor of preferance, examples: claude cli(A good one but the bills will take away your house in seconds), google cli(Actually free), codex(never tried) and etc.. This one is a popular niche clap some print togheter and add an api(signal to the AI in this context) call when hit enter and you made a cli tool
+
+Since this is targeted towards begineers you should
