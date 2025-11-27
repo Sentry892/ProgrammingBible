@@ -34,4 +34,40 @@ Usually I'm against vibe-coding(I will explain this in a second) but I feel that
 
 2. CLI tools, write claude in terminal a chat pops up made for developers that have their editor of preferance, examples: claude cli(A good one but the bills will take away your house in seconds), google cli(Actually free), codex(never tried) and etc.. This one is a popular niche clap some print togheter and add an api(signal to the AI in this context) call when hit enter and you made a cli tool
 
-Since this is targeted towards begineers you should
+Since this is targeted towards begineers you should not over rely on AI remember it's just a companion
+___
+
+## Deployment tools
+> Show the world your creation
+
+After writing code you need to deploy it(deployment is when you upload your code to a server so other people can access it). There are a lot of deployment tools for example: netlify, Vercel, Heroku, GitHub pages and etc... My personal favorite is Netlify because it has a lot of features for free and easy to use, but if you are using a framework like next.js or react Vercel is the best choice since it is made by the same team that made next.js so it has a lot of optimizations for it. For backend deployment I recommend heroku since it is easy to use and has a lot of free features.
+___
+## Containerization tools
+> Pack your stuff like a pro
+
+Containerization is a process of packaging an application and its dependencies into a container so it can be run on any system. The most popular containerization tool is Docker, it allows you to create, deploy, and run applications in containers. Containers are lightweight and portable, making them ideal for development and deployment. Another popular tool is Kubernetes, which is used for automating the deployment, scaling, and management of containerized applications. If you are working on a project that requires multiple services or microservices, containerization tools like Docker and Kubernetes can help you manage and deploy your application efficiently.
+___
+## Monorepos
+> One repo to rule them all
+
+Monorepos are a way of organizing codebases where multiple projects or packages are stored in a single repository. This approach can simplify dependency management, code sharing, and collaboration among teams. Popular tools for managing monorepos include Nx, Lerna, and Turborepo. These tools provide features like dependency graph management, build optimization, and task running to help developers work efficiently in a monorepo setup. An example of a monorepo is Google's codebase, which contains the code for many of their products in a single repository. Monorepos can be beneficial for large teams and projects, but they also come with challenges like increased complexity and potential performance issues. It's important to evaluate whether a monorepo is the right choice for your project before adopting this approach.
+___
+## Distributing data
+> Share your data with the world
+
+Distributing data is an important aspect of modern applications, especially when dealing with large datasets or real-time data. Popular tools for distributing data include Apache Kafka, RabbitMQ, and AWS Kinesis. These tools allow you to stream data between different services and applications, enabling real-time processing and analysis. For example, Apache Kafka is widely used for building real-time data pipelines and streaming applications, while RabbitMQ is a message broker that facilitates communication between different components of a system. When choosing a data distribution tool, consider factors like scalability, reliability, and ease of integration with your existing infrastructure.
+___
+## My workflow
+> Work smart, not hard
+
+My workflow is designed to maximize productivity and minimize distractions. Here are the steps I follow: First I use Arch Linux as my operating system because it is lightweight and customizable(and I have no job). As my code editor I use Antigravity AI code editor but Cursor is also a great choice. For code testing I use CodeRabbit(Please sponsor me). For version control I use Git with GitHub for remote repositories. I write my code in a terminal using kitty terminal. For deployment I use Netlify for since I mainly do frontend projects and also manual setup features. For containerization I use Docker to package my applications and their dependencies. I also use Nx for managing monorepos, which helps me keep my projects organized and efficient. I platforms like google ads for promoting my freelance projects. This workflow allows me to stay focused and get more done in less time. My tech stack may change over time as new tools and technologies emerge, but the core principles of productivity and efficiency will always remain the same: 
+1. Astro/React for frontend 
+2. Node.js/Supabase for backend
+3. Next.js for fullstack projects
+4. Three.js for 3D UI
+5. Tailwind CSS for styling
+6. Netlify for deployment
+__
+## API
+> Talk is cheap. Show me the code.
+To finish it off I will explain what an API is. An API(application programming interface) is a set of rules and protocols that allows different software applications to communicate with each other. APIs define how requests and responses should be formatted, what data can be accessed, and what actions can be performed. APIs are used in a wide range of applications, from web development to mobile app development to cloud computing. For example, when you use a social media app on your phone, the app communicates with the social media platform's API to retrieve your feed, post updates, and interact with other users. APIs can be public or private, depending on whether they are intended for use by external developers or only within a specific organization. Popular examples of public APIs include the Twitter API, Google Maps API, and OpenWeatherMap API. Overall, APIs are a crucial component of modern software development, enabling developers to build complex applications that leverage the functionality of existing services and platforms.
